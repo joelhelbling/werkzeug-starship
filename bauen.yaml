@@ -1,0 +1,6 @@
+---
+tasks:
+- source: ./config_starship.toml
+  target: ~/.config/starship.toml
+  operation: link
+  preserve_original: true
