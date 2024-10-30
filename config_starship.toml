@@ -50,10 +50,6 @@ threshold = 80
 # [username]
 # show_always = true
 
-[sudo]
-disabled = false
-symbol = '[ ](bold bright-blue) '
-
 [battery]
 disabled = false
 full_symbol = '󰁹'
